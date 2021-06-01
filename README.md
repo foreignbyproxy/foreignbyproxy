@@ -17,6 +17,6 @@ Outside of work, I'm a gamer. I'm a cyclist with a goal to cycle 2,500 miles thi
 **Next.js** - I've been a bit frustrated with the GatsbyJS DX recently so I've been playing and migrating this website over to Next.js. I'm also pushing to build a static site product using Next.js at BLD for clients who need a simple, static solution for their website.
 
 ## What I'm reading
-De-coding the Technical Interview Process
-Ramen Obsession: The Ultimate Bible For Mastering Japanese Ramen
-Options as a Strategic Investment
+- De-coding the Technical Interview Process
+- Ramen Obsession: The Ultimate Bible For Mastering Japanese Ramen
+- Options as a Strategic Investment
